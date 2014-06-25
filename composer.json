@@ -1,0 +1,18 @@
+{
+	"name": "pheme/yii2-menu",
+	"description": "Allows you to manage your menus in the Database",
+	"type": "yii2-extension",
+	"keywords": ["yii2"," db"," menu"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Aris Karageorgos",
+			"email": "aris@phe.me"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"pheme\\menu\\": ""
+		}
+	}
+}
